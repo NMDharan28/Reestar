@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 10px;
+    color: gray;
+    cursor: pointer;
+}
+ul{
+    text-align: center;
+    margin-top: 5px;
+}
+li:hover{
+    color: white;
+}
+.box
+{
+    display: inline-block;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+   
+}
+.products{
+    text-align: center;
+    
+    
+}
+p:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.order
+{
+    background-color: black;
+    color: gray;
+    display: inline-block;
+    cursor: pointer;
+    
+}
+h3:hover{
+    color: rgb(106, 247, 106);
+}
+.contactus
+{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    margin-top:30px;
+    
+}
+
+
+.name
+{
+    text-align: center;
+}
+.age{
+    text-align: center;
+    padding-top: 10px;
+}
+.email{
+    text-align: center;
+    padding: 10px;
+}
+.pp
+{
+    background-color: yellow;
+    color: black;
+    
+    text-align: center;
+}
+.send
+{
+    color:black;
+    
+    width: 1600px;
+    padding-left:46%;
+}
+
